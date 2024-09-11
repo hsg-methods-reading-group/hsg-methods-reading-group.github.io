@@ -1,0 +1,27 @@
+{% if config.extra.header_nav %}
+
+<div class="row" style="padding-top: 1.5em">
+  <div class="col is-vertical-align">
+    <h1 class="is-marginless"><a href="{{ config.base_url }}">{{ config.title }}</a></h1>
+  </div>
+  <div class="col is-right">
+    <nav class="nav">
+      <div class="nav-right">
+        {% for nav_item in config.extra.header_nav %}
+          <a class="button primary outline {% if nav_item.url == current_url %}primary{% endif %}" href="{{ config.base_url ~ nav_item.url }}">
+            {{ nav_item['name'] }}
+          </a>
+        {% endfor %}
+        <a class="button outline" href="javascript:void(0)" onclick="switchMode(this)">
+          <i class="bi bi-moon-stars"></i>
+        </a>
+      </div>
+    </nav>
+  </div>
+</div>
+
+<img src="{{ get_url(path='images/csm_HSG_Hauptgebaeude_1.jpg', trailing_slash=false) | safe }}">
+
+<hr>
+
+{% endif %}

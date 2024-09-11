@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{{ section.content | safe }}
+
+{% set editions = get_section(path="editions/_index.md") %}
+
+<!-- Directly embed latest edition in front page -->
+{% set latest_editions = editions.pages | last %}
+
+<h1>{{ latest_editions.title | safe }}</h1>
+
+{{ latest_editions.content | safe }}
+
+<!--
+<br>
+
+<h4>Full list of editions:</h4>
+<ul>
+{% for page in editions.pages %}
+    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
+-->
+
+<!--
+{% if config.extra.list_pages %}
+
+  {% if paginator %}
+  {% set pages = paginator.pages %}
+  {% else %}
+  {% set pages = section.pages %}
+  {% endif %}
+
+  <ul class="titleList">
+  {% for page in pages %}
+    <li>
+      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+      <br />
+      {{ page.description }}
+    </li>
+  {% endfor %}
+  </ul>
+
+  {% if paginator %}
+  <div class="metaData">{% if paginator.previous %}<a href="{{ paginator.first }}">⥶</a> &nbsp <a href="{{ paginator.previous }}"><</a>{% endif %} &nbsp {{ paginator.current_index }} / {{ paginator.number_pagers }} &nbsp {% if paginator.next %}<a href="{{ paginator.next }}">></a> &nbsp <a href="{{ paginator.last }}">⥸</a>{% endif %}</div>
+  {% endif %}
+
+{% endif %}
+-->
+
+{% endblock content %}

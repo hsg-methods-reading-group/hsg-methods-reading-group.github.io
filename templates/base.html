@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{% if page %}{{ page.lang }}{% else %}{{ config.default_language }}{% endif %}">
+<head>
+    {% include "head.html" %}
+</head>
+<body id="top" class="container" role="document">
+    <header role="banner">
+        {% include "header.html" %}
+    </header>
+    <main role="main">
+        {% block content %}
+        {% endblock content %}
+    </main>
+    <footer role="footer">
+        {% include "footer.html" %}
+    </footer>
+</body>
+</html>
