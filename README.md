@@ -1,11 +1,10 @@
 # St. Gallen Methods Reading Group
 
-This is the website for the _St. Gallen Methods Reading Group_, whic you can
-find here:
+This is the website for the _St. Gallen Methods Reading Group_:
 
 __[🔗hsg-methods-reading-group.github.io](https://hsg-methods-reading-group.github.io)__
 
-#### Requirements
+## Requirements to Edit
 
 This website is built using Zola (https://www.getzola.org/), a static website generator. 
 Please note that you need to install Zola before updating the website.
@@ -17,7 +16,7 @@ https://www.getzola.org/documentation/getting-started/overview/
 * Folder `content` contains the main pages of the website in Markdown format.
 
 * For each edition (semester/year/topic), create a new file in the  folder `content/editions` named according to the expression `ID_YEAR_SEMESTER.md` where
-    + `ID`: incremental numeric page number, possibly starting with 0 
+    + `ID`: *incremental* numeric page number, starting with 0 for single digits
     + `YEAR`: four-digit year
     + `SEMESTER`: semester of the academic year 
 
@@ -27,9 +26,13 @@ https://www.getzola.org/documentation/getting-started/overview/
 
 __Important:__ files `_index.md` are needed internall by Zola, please do not edit them.
 
-## Compiling/updating Website
+## Local Work on the Website
 
-To buld the site, open a terminal at the root of the repo and run
+__Note:__ this repository is set up so that anytime a _push_ is detected, a Github Action will
+automatically re-compile the website and push it to the `gh-pages` branch. <br>
+*Please **do not** push directly to branch `gh-pages` by hand!*
+
+To locally build & update the site: clone the repo, open a terminal at the root of the repo and run
 
 > zola serve
 
