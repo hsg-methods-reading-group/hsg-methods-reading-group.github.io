@@ -15,10 +15,10 @@ https://www.getzola.org/documentation/getting-started/overview/
 ## Site Structure
 * Folder `content` contains the main pages of the website in Markdown format.
 
-* For each edition (semester/year/topic), create a new file in the  folder `content/editions` named according to the expression `ID_YEAR_SEMESTER.md` where
-    + `ID`: *incremental* numeric page number, starting with 0 for single digits
+* For each edition (semester/year/topic), please create a new file in the  folder `content/editions` named according to the expression `YEAR_SEMESTER.md` such that
     + `YEAR`: four-digit year
     + `SEMESTER`: semester of the academic year 
+    + __IMPORTANT:__ In the head section of the `md` file (wrapped by `+++ ... +++`) please include the field `description = "XX"`, where `XX` is a two-digit number (including a zero first for single-digit numbers) that is increasing in the edition of the group. _This enables the website to be correctly compiled and always show the most recent edition as front page._
 
 * To update general info, change `content/about.md`
 

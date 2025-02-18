@@ -7,7 +7,8 @@
 {% set editions = get_section(path="editions/_index.md") %}
 
 <ul>
-{% for page in editions.pages %}
+{% set all_editions = editions.pages | sort(attribute="description") | reverse %}
+{% for page in all_editions %}
     <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
 {% endfor %}
 </ul>

@@ -7,11 +7,11 @@
 {% set editions = get_section(path="editions/_index.md") %}
 
 <!-- Directly embed latest edition in front page -->
-{% set latest_editions = editions.pages | last %}
+{% set latest_edition = editions.pages | sort(attribute="description") | last %}
 
-<h1>{{ latest_editions.title | safe }}</h1>
+<h1>{{ latest_edition.title | safe }}</h1>
 
-{{ latest_editions.content | safe }}
+{{ latest_edition.content | safe }}
 
 <!--
 <br>
