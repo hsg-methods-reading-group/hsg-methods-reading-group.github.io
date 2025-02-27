@@ -51,8 +51,8 @@ Rosenbergstrasse 20/22, St. Gallen<br>
 | 3) | 27.03 | C 83-3235 | [Block Bootstrap Methods and the Choice of Stocks for the Long Run (2013)](https://www.tandfonline.com/doi/abs/10.1080/14697688.2012.713115) | Erik | Jonas |
 | | | | 🌻 SEMESTER BREAK 🌻 | | |
 | 4) | 01.05 | C 83-3235 | [Bootstrap Robust Prescriptive Analytics (2022)](https://link.springer.com/article/10.1007/s10107-021-01679-2) | Tobias | Giovanni |
-| 5) | 08.05 | C 83-3235 | TBD | --- | --- |
-| 6) | 22.05 | C 83-3235 | TBD | --- | --- |
+| 5) | 08.05 | C 83-3235 | [One-Dimensional Inference in Autoregressive Models With the Potential Presence of a Unit Root (2012)](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA9371) | Giovanni | Christoph |
+| 6) | 22.05 | C 83-3235 | [Central Limit Theorems and Bootstrap in High Dimensions (2017)](https://www.jstor.org/stable/26362255) | Giovanni | Jana |
 
 <br>
 
@@ -62,8 +62,11 @@ Rosenbergstrasse 20/22, St. Gallen<br>
 
 * Session 1
   * TBD
+  * See [Efron & Tibshirani (1993)](#additional-references) for a textbook treatment of roughly the same material.
+  * See also Chapter 3 in [Shao & Tu (1995)](#additional-references) for a detailed mathematical presentation of bootstrap theory.
 <!-- * Session 2
-  * TBD -->
+  * TBD 
+  * For thorough but accessible overviews of bootstrap methods applied to dependent data, we also recommend [Cavaliere & Rahbek - A primer on bootstrap testing of hypotheses in time series models (2021)](https://www.cambridge.org/core/journals/econometric-theory/article/primer-on-bootstrap-testing-of-hypotheses-in-time-series-models-with-an-application-to-double-autoregressive-models/548BB1B24F273EB873AB5C6F190745A5) and [Cavaliere et al. - An Introduction to Bootstrap Theory in Time Series Econometrics (2020)](https://www.economics.ku.dk/research/publications/wp/dp-2020/2002.pdf). -->
 <!-- * Session 3
   * TBD -->
 <!-- * Session 4
@@ -79,9 +82,24 @@ Rosenbergstrasse 20/22, St. Gallen<br>
 
 ### <i class="bi bi-book"></i> Additional References
 
-1. --
+1. [Efron & Tibshirani - An Introduction to the Bootstrap (1993)](https://www.dropbox.com/scl/fi/8gapprsv0zb4c20qignmf/An-Introduction-to-the-Bootstrap-Bradley-Efron-R.J.-Tibshirani.pdf?rlkey=qeit62j92cay09c8n6a5rn2y6&st=2hkn42b9&dl=0)
+<br>
+Classical reference for the boostrap method, based on the theory developed rougly before 2000. Includes theoretical
+analysis of classical problems like variance and bias estimates, the jackknife, confidence intervals and testing.
 
-2. --
+2. [Shao & Tu - The Jackknife and Bootstrap (1995)](https://www.dropbox.com/scl/fi/mfxzv05x8a8ytl3ctkr50/The-Jackknife-and-Bootstrap-Jun-Shao-Dongsheng-Tu.pdf?rlkey=fq536ao5qc52zdu6xinivalye&dl=0)
+<br>
+Another classical reference book for bootstrap methods. Unlike Efron & Tibshirani (1993), it focuses on the core (but also more advanced) *mathematical theory* of the bootstrap itself (see Chapter 3).
+Detailed treatment of important applications in econometric/statistical analysis include: linear models (Chapter 7); nonparametric models (Chapter 8), and time series and dependent data (Chapter 9).
+
+1. [Efron & Hastie - Computer Age Statistical Inference (2016)](https://www.dropbox.com/scl/fi/gdahxft7m28e8y2hkj0ls/Computer-Age-Statistical-Inference-Algorithms-Evidence-and-Data-Science-Bradley-Efron-Trevor-Hastie.pdf?rlkey=s3qw6zkzxm0x8dvhq1r1op4rq&st=rm6tkiqo&dl=0)
+<br>
+Broad book that can serve as a reference for many contemporary methods in statistical analysis and learning. Chapters 10 and 11 present the bootstrap and the jackknife from a high-level perspective.
+
+
+1. [Chernick - Bootstrap Methods: A Guide for Practitioners and Researchers (2008)](https://www.dropbox.com/scl/fi/8bnte3xj1080mhbn2by8s/Bootstrap-methods-a-guide-for-practitioners-and-researchers-Michael-R.-Chernick.pdf?rlkey=r60mp09u7cp9ejqfje3v8cgtz&dl=0)
+<br>
+A book containing many empirical examples of uses of bootstrap methods.
 
 <br>
 
