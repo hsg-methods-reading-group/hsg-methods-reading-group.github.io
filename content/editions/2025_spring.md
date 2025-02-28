@@ -61,7 +61,7 @@ Rosenbergstrasse 20/22, St. Gallen<br>
 <!-- <div class="ul_relaxed"> -->
 
 * Session 1
-  * TBD
+  * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/8n6xgqa1ubc12ayasalvo/Horowitz-2001-The-Bootstrap.pdf?rlkey=vfur94bfqub26t7attx4mrahq&dl=0)
   * See [Efron & Tibshirani (1993)](#additional-references) for a textbook treatment of roughly the same material.
   * See also Chapter 3 in [Shao & Tu (1995)](#additional-references) for a detailed mathematical presentation of bootstrap theory.
 <!-- * Session 2
