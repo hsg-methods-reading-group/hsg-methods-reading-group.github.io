@@ -25,7 +25,8 @@ _February 2025 - May 2025, University of St. Gallen_
 <!-- #### Main Room: -->
 
 **Room C 83-3235, Haus Washington**<br>
-Rosenbergstrasse 20/22, St. Gallen<br>
+Rosenbergstrasse 20/22, St. Gallen
+<br>
 [Link to MazeMap <i class="bi bi-box-arrow-up-right"></i>](https://link.mazemap.com/waU61yBJ)
 
 <!-- **Room C 83-1235, Haus Washington**<br>
@@ -37,6 +38,10 @@ Rosenbergstrasse 20/22, St. Gallen<br>
 
 <!-- ##### Other: -->
 
+**Remote Session**<br>
+[Teams Meeting Link <i class="bi bi-box-arrow-up-right"></i>](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDY4NGY2YTQtMmYxOS00YzA5LWIwZDgtMmU0ZjNlYzljZTJj%40thread.v2/0?context=%7b%22Tid%22%3a%22a7262e59-1b56-4f5a-a412-6f07181f48ee%22%2c%22Oid%22%3a%22b6a64a0e-4fc2-48fd-a2df-b8da9d3d9dff%22%7d)
+<br>
+Note: the Teams link will be the same for all meetings.
 
 <br>
 
