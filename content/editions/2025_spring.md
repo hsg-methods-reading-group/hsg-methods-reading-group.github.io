@@ -69,9 +69,10 @@ Note: the Teams link will be the same for all meetings.
   * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/8n6xgqa1ubc12ayasalvo/Horowitz-2001-The-Bootstrap.pdf?rlkey=vfur94bfqub26t7attx4mrahq&dl=0)
   * See [Efron & Tibshirani (1993)](#additional-references) for a textbook treatment of roughly the same material.
   * See also Chapter 3 in [Shao & Tu (1995)](#additional-references) for a detailed mathematical presentation of bootstrap theory.
-<!-- * Session 2
-  * TBD 
-  * For thorough but accessible overviews of bootstrap methods applied to dependent data, we also recommend [Cavaliere & Rahbek - A primer on bootstrap testing of hypotheses in time series models (2021)](https://www.cambridge.org/core/journals/econometric-theory/article/primer-on-bootstrap-testing-of-hypotheses-in-time-series-models-with-an-application-to-double-autoregressive-models/548BB1B24F273EB873AB5C6F190745A5) and [Cavaliere et al. - An Introduction to Bootstrap Theory in Time Series Econometrics (2020)](https://www.economics.ku.dk/research/publications/wp/dp-2020/2002.pdf). -->
+* Session 2
+  * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/saam204boof9rtfjeeipn/Kreiss_and_lahiri_Bootstrap_Methods_for_Time_Series.pdf?rlkey=tn1s80ut0koy5df0bcm6u7vv9&dl=0) 
+  * See Chapter 9 in [Shao & Tu (1995)](#additional-references) for another textbook discussion on the topic.
+  * For formal but still accessible overviews of bootstrap methods applied to dependent data, we also recommend [Cavaliere & Rahbek - A primer on bootstrap testing of hypotheses in time series models (2021)](https://www.cambridge.org/core/journals/econometric-theory/article/primer-on-bootstrap-testing-of-hypotheses-in-time-series-models-with-an-application-to-double-autoregressive-models/548BB1B24F273EB873AB5C6F190745A5) and [Cavaliere et al. - An Introduction to Bootstrap Theory in Time Series Econometrics (2020)](https://www.economics.ku.dk/research/publications/wp/dp-2020/2002.pdf). 
 <!-- * Session 3
   * TBD -->
 <!-- * Session 4
