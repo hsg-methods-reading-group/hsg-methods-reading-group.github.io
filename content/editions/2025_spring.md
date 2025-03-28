@@ -75,8 +75,10 @@ Note: the Teams link will be the same for all meetings.
   * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/saam204boof9rtfjeeipn/Kreiss_and_lahiri_Bootstrap_Methods_for_Time_Series.pdf?rlkey=tn1s80ut0koy5df0bcm6u7vv9&dl=0) 
   * See Chapter 9 in [Shao & Tu (1995)](#additional-references) for another textbook discussion on the topic.
   * For formal but still accessible overviews of bootstrap methods applied to dependent data, we also recommend [Cavaliere & Rahbek - A primer on bootstrap testing of hypotheses in time series models (2021)](https://www.cambridge.org/core/journals/econometric-theory/article/primer-on-bootstrap-testing-of-hypotheses-in-time-series-models-with-an-application-to-double-autoregressive-models/548BB1B24F273EB873AB5C6F190745A5) and [Cavaliere et al. - An Introduction to Bootstrap Theory in Time Series Econometrics (2020)](https://www.economics.ku.dk/research/publications/wp/dp-2020/2002.pdf). 
-<!-- * Session 3
-  * TBD -->
+* Session 3
+  * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/gma9iuvx30q5em8ierlhj/Mikusheva_-_2012_-_One-Dimensional_Inference_in_Autoregressive_Models.pdf?rlkey=2oreckxkgshy3agjtcy2wrl6u&dl=0)
+  * Refer to [Mikusheva - Uniform Inference in Autoregressive Models (2007)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2007.00798.x) for a more extensive discussion of the AR(1) setting and associated local-to-unity asymptotics.
+  * See [Hansen - The Grid Bootstrap and the Autoregressive Model (1999)](https://www.mitpressjournals.org/doi/10.1162/003465399558463) for the original proposal of the grid bootstrap.
 <!-- * Session 4
   * TBD -->
 <!-- * Session 5
