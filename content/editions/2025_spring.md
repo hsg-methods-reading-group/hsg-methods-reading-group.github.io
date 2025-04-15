@@ -56,10 +56,14 @@ Note: the Teams link will be the same for all meetings.
 | 3) | 27.03 | C 83-3235 | [One-Dimensional Inference in Autoregressive Models With the Potential Presence of a Unit Root (2012)](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA9371) | Giovanni | Jonas | 
 | | | | 🌻 SEMESTER BREAK 🌻 | | |
 | 4) | 01.05 | C 83-3235 | [Bootstrap Robust Prescriptive Analytics (2022)](https://link.springer.com/article/10.1007/s10107-021-01679-2) | Tobias | Giovanni |
-| 5) | 08.05 | C 83-3235 | [Block Bootstrap Methods and the Choice of Stocks for the Long Run (2013)](https://www.tandfonline.com/doi/abs/10.1080/14697688.2012.713115) | Erik | Christoph |
+| 5) | <u>08.05</u>* | C 83-3235 | [Block Bootstrap Methods and the Choice of Stocks for the Long Run (2013)](https://www.tandfonline.com/doi/abs/10.1080/14697688.2012.713115) | Erik | Christoph |
 | 6) | 22.05 | C 83-3235 | [Central Limit Theorems and Bootstrap in High Dimensions (2017)](https://www.jstor.org/stable/26362255) | Giovanni | Jana |
 
 <!--  --->
+<br>
+
+**Schedule Notices:**
+* Please note that on **Thursday 08.05** we will move our meeting time to **15:15-16.30** to allow for the _SEPS Spring Apero_ taking place 17:00!
 
 <br>
 
