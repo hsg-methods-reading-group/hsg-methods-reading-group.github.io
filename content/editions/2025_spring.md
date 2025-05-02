@@ -83,8 +83,8 @@ Note: the Teams link will be the same for all meetings.
   * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/gma9iuvx30q5em8ierlhj/Mikusheva_-_2012_-_One-Dimensional_Inference_in_Autoregressive_Models.pdf?rlkey=2oreckxkgshy3agjtcy2wrl6u&dl=0)
   * Refer to [Mikusheva - Uniform Inference in Autoregressive Models (2007)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2007.00798.x) for a more extensive discussion of the AR(1) setting and associated local-to-unity asymptotics.
   * See [Hansen - The Grid Bootstrap and the Autoregressive Model (1999)](https://www.mitpressjournals.org/doi/10.1162/003465399558463) for the original proposal of the grid bootstrap.
-<!-- * Session 4
-  * TBD -->
+* Session 4
+  * [<i class="bi bi-file-earmark-pdf"></i> Notes](https://www.dropbox.com/scl/fi/0vphtpi0yxt2thfezfsuv/Notes-Bootstrap-robust-prescriptive-analytics-2022.pdf?rlkey=1kt8x5rmdvp6hnr6ou7hgzygi&dl=0)
 <!-- * Session 5
   * TBD -->
 <!-- * Session 6
