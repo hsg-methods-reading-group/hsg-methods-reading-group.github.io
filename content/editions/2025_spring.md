@@ -85,8 +85,8 @@ Note: the Teams link will be the same for all meetings.
   * See [Hansen - The Grid Bootstrap and the Autoregressive Model (1999)](https://www.mitpressjournals.org/doi/10.1162/003465399558463) for the original proposal of the grid bootstrap.
 * Session 4
   * [<i class="bi bi-file-earmark-pdf"></i> Notes](https://www.dropbox.com/scl/fi/0vphtpi0yxt2thfezfsuv/Notes-Bootstrap-robust-prescriptive-analytics-2022.pdf?rlkey=1kt8x5rmdvp6hnr6ou7hgzygi&dl=0)
-<!-- * Session 5
-  * TBD -->
+* Session 5
+  * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/cscwgrzold8h5ateusxt8/Cogneau-et-al.-2013-Block-bootstrap-methods-and-the-choice-of-stocks-for-the-long-run.pdf?rlkey=3gi1fqldjqto6ohtqbu4dkyj5&dl=0)
 <!-- * Session 6
   * TBD -->
 
