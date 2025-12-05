@@ -1,0 +1,31 @@
+:root {
+    --hsg-green: #008432ff; /* Define HSG brand color */
+
+    --color-primary: var(--hsg-green);
+    --grid-maxWidth: 1200px;
+    --font-size: 1.7rem;
+}
+
+header h1 {
+    color: var(--color-primary);
+}
+
+header img {
+    border-radius: 3px;
+    opacity: 0.9;
+}
+
+.ul_relaxed li {
+    margin-bottom: 1em;
+}
+
+/* Adjust blockquote to be optically aligned with lists
+   and to avoid extra space at the end of a <p>
+*/
+blockquote {
+    margin-left: 26px;
+}
+
+blockquote p:last-child {
+    margin: 0px;
+}
