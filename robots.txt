@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://hsg-methods-reading-group.github.io/sitemap.xml
