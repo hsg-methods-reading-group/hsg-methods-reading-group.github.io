@@ -1,0 +1,163 @@
++++
+title = "Spring 2026 - Bayesian Methods and Perspectives"
+description = "04"
++++
+
+_February 2026 - May 2026, University of St. Gallen_
+
+> The Method Reading Group takes place (approximately) __bi-weekly__ with sessions of __1h15m__, and we aim to devote at least one hour to topic discussion. 
+> 
+> This semester, we meet on __Thursdays, 16:15-17:30__, alternating with the [Quantitative Methods and Learning
+Research Seminar](https://www.unisg.ch/en/university/schools/school-of-economics-and-poltical-science-seps-hsg/research/quantitative-methods-and-learning/?utm_source=chatgpt.com). Please **see the schedule section below for updated room locations, dates and topics**.
+> 
+> The group is open to anyone: if you would like to participate in the discussion too, let us know!
+> 
+> *Notice:* As Erik will be partially away during this semester, Lion has kindly agreed to help with organizing this edition.
+
+* Contact: 
+    * Giovanni Ballarin (<a>giovanni.ballarin[-at-]unisg.ch</a>)
+    * Lion Szlagowski (<a>giovanni.ballarin[-at-]unisg.ch</a>)
+* Files:
+    * See [below](#materials) for materials discussed
+    * Some [additional references](#additional-references) are also listed 
+
+<br>
+
+### <i class="bi bi-geo-fill"></i> Locations
+
+<!-- #### Main Room: -->
+
+**Room C 58-018 (Next to Haus Washington)**<br>
+Gound floor, Tellstrasse 2, St. Gallen
+<br>
+[Link to MazeMap <i class="bi bi-box-arrow-up-right"></i>](https://link.mazemap.com/vpZAdCTA)
+
+<!-- **Room C 83-1235, Haus Washington**<br>
+Rosenbergstrasse 20/22, St. Gallen<br>
+[Link to MazeMap <i class="bi bi-box-arrow-up-right"></i>](https://link.mazemap.com/waU61yBJ)
+
+> At the main foyer of the building, take the right door (coming from the street) towards the decorated staircase.<br>
+> The seminar room is on the 1st floor (just above the steps), in front of the first elevator. -->
+
+<!-- ##### Other: -->
+
+**Join Online**<br>
+[Teams Meeting Link <i class="bi bi-box-arrow-up-right"></i>](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTY1ZWQ5M2YtY2M2NC00ODhkLWI5MWMtYjg1NTlkMmMwNjVh%40thread.v2/0?context=%7b%22Tid%22%3a%22a7262e59-1b56-4f5a-a412-6f07181f48ee%22%2c%22Oid%22%3a%22b6a64a0e-4fc2-48fd-a2df-b8da9d3d9dff%22%7d)
+<br>
+Note: the Teams link will be the same for all meetings.
+
+<br>
+
+### <i class="bi bi-calendar-week"></i> Schedule
+
+*Please check this website for regular updates*
+
+| # | Date | Room | Paper/Topic | Presenter | Discussant |
+| --- | --- | --- | --- | --- | --- |
+| 1) | 26.02 | C&nbsp;58-018 | [Bayesian Econometrics: Chapters 1 & 2 (2010)](#materials) | Giovanni | Erik |
+| 2) | 12.03 | C&nbsp;58-018 | [](#materials) | --- | --- |
+| 3) | 19.03 | C&nbsp;58-018 | [](#materials) | --- | --- |
+| | | | 🌻 SEMESTER BREAK 🌻 | | |
+| 4) | 23.04 | C&nbsp;58-018 | [](#materials) | --- | --- |
+| 5) | 07.05 | C&nbsp;58-018 | [](#materials) | --- | --- |
+| 5) | 21.05 | C&nbsp;58-018 | [](#materials) | --- | --- |
+
+<br>
+
+<!--  --->
+<!--
+**Schedule Notices:**
+<br>
+--->
+
+### <i class="bi bi-file-earmark-arrow-down"></i> Materials
+
+<!-- <div class="ul_relaxed"> -->
+
+* Sessions 1 
+  * TBA
+<!--
+* Session 2
+  * [<i class="bi bi-file-earmark-pdf"></i> Handwritten Notes](https://www.dropbox.com/scl/fi/32pcx6of4f90x4k3wmw05/Ballarin_Q-Learning-Stats-2025.pdf?rlkey=p43e3zq9gs4of0o8zw31ox0e2&dl=0) 
+  * Main reference: [Clifton and Laber (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-031219-041220) 
+  * For regularized two-period Q-Learning, see also [Soing et al. (2015)](https://www3.stat.sinica.edu.tw/statistica/J25N3/J25N35/J25N35.html)
+  * For nonparametric sieve estimation of conditional moment restriction models, which include (infinite horizon) Q-Learning, see [Chen et al. (2025)](https://www.sciencedirect.com/science/article/pii/S0304407624002719)
+* Session 3
+  * [<i class="bi bi-file-earmark-pdf"></i> Slides](https://www.dropbox.com/scl/fi/405uqlfqhaltouo2cfp52/Wolter_Primal_Dual_RL_Presentation.pdf?rlkey=cwcx72pnymvxnf5gnq01q97id&dl=0)
+  * [<i class="bi bi-file-earmark-pdf"></i> Wolter and Sutter - A Two-Timescale Primal-Dual Framework for Reinforcement Learning via Online Dual Variable Guidance (2025+)](https://arxiv.org/abs/2505.04494)
+* Session 4
+  * [<i class="bi bi-file-earmark-pdf"></i> Handwritten Notes](https://www.dropbox.com/scl/fi/7bez3ulsy6fpfbjubrky4/Huwyler_Kin_Lee_2024_Notes.pdf?rlkey=ts8mnm6khhgvnne94m3s7r06k&dl=0)
+* Session 5
+  * [<i class="bi bi-file-earmark-pdf"></i> Slides](https://www.dropbox.com/scl/fi/lo4pp0lo4plirvyxzeplp/ADP_for_DSGE_models.pdf?rlkey=cpujk75tx809mbhnho03zgkip&dl=0)
+  * Additional references and lecture notes on the application of deep learning (not necessarily RL) to macroeconomic modeling can be found at the [Github repository](https://github.com/sischei/SummerSchool_DL_Turin_2025) of the [2025 Summer School and Conference on Machine Learning for Economics and Finance](https://sites.google.com/carloalberto.org/thesummerschool2025unito/home)
+* Session 6
+  * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/0ko4dqtniylg2efkvux79/Chernozhukov-et-al.-2017-Central-Limit-Theorems-and-Bootstrap-in-High-Dimensions.pdf?rlkey=p5odhrjdkf5hjttrsj2myb2f0&dl=0)
+  * [<i class="bi bi-file-earmark-pdf"></i> Handwritten Notes](https://www.dropbox.com/scl/fi/8wlaebq4fy4yajdrbxxzd/CKK-2017-Simple-HD-CLT-Proof.pdf?rlkey=wdzwa8sxf94ho8stplilfgjr5&dl=0) with proof of a simple version of the key high-dimensional CLT result. Based on the 2021 Hausdorff Summer School lecture notes by K. Kato. -->
+<!-- 
+* Session ?
+  * TBD 
+-->
+
+<!-- </div> -->
+
+<br>
+
+### <i class="bi bi-book"></i> Additional References
+
+1. [Koop - Bayesian Econometrics (2010)](http://diglib.globalcollege.edu.et:8080/xmlui/bitstream/handle/123456789/213/Koop%20G.%20Bayesian%20econometrics%20%28Wiley%2C%202003%29%28ISBN%200470845678%29%28373s%29_GL_.pdf?sequence=1)
+<br>
+General book covering topics of Bayesian estimation and inference.
+
+2. [Geweke - Contemporary Bayesian Econometrics and Statistics (2005)](https://onlinelibrary.wiley.com/doi/book/10.1002/0471744735)
+<br>
+Classical discussion of Bayesian econometric methods for cross-sectional and time series data, with MATLAB and R code.
+
+1. [Blake & Mumtaz - Applied Bayesian econometrics for central bankers (2017)](https://www.bankofengland.co.uk/ccbs/applied-bayesian-econometrics-for-central-bankers-updated-2017)
+<br>
+Review notes geared toward macroeconomic and monetary research.
+
+1. [Samaniego - A Comparison of the Bayesian and Frequentist Approaches to Estimation (2010)](https://link.springer.com/book/10.1007/978-1-4419-5941-6)
+<br>
+A book-length discussion of similarities and differences between frequentist and Bayesian methods.
+
+1. [Zellner - Bayesian econometrics: past, present, and future (2008)](https://www.emerald.com/books/edited-volume/12648/chapter/82923764/Bayesian-econometrics-past-present-and-future)
+<br>
+Overview of the history of theory and practice of the Bayesian approach up to the 2010's.
+
+<br>
+
+### <i class="bi bi-person-arms-up"></i> Members
+
+* [Giovanni Ballarin](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/7ab0798f-b9c2-43f8-9eb9-1f7b55e4c0e5/)
+* [Luca Fiumana](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/40c7b2ca-71ac-441e-b8a5-0872a0c4dc0c/)
+* [Prof. Lyudmila Grigoryeva](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/29fa04c7-1a51-43a6-a7ba-d300c0a661d9/)
+* [Christoph Hirt](https://www.unisg.ch/de/universitaet/ueber-uns/organisation/detail/person-id/b66a8694-8d7b-4e1f-9aad-4b6df98139a5/)
+* [Jonas Huwyler](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/8781ed48-6079-41f8-aa70-dbb0eeca6c77/)
+* [Prof. Jana Mareckova](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/eba7af93-43af-4acb-8f8e-f05f32160c8b/)
+* [Angelo Mimmo](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/4b1bc71c-2232-444a-970e-2a13baccf6bb/)
+* [Linda Odermatt](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/43f5f49f-9b1a-40bd-9ae8-058872993c98/)
+* [Erik-Jan Senn](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/4adb255c-5631-4b30-97f5-9f73617cbfdb/)
+* [Prof. Tobias Sutter](https://sew.unisg.ch/the-institute/about-us/team/detail/person-id/d5d5c276-6dd4-4f02-b1b9-98512d7c1b1c/)
+* [Lion Szlagowski](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/61ed524f-6bad-49d9-887a-96f863586ee3/)
+
+<br>
+
+### <i class="bi bi-info-circle"></i> How To
+
+The general guidelines and "house rules" we follow are much inspired by those of e.g. the [TS&ML Reading Group](https://www.personal.soton.ac.uk/cz1y20/Reading_Group/mlts-group-2023.html) at the University of Southampton.
+
+We will alternate over time so that each person can try and fulfill the two main roles at least once:
+
+* <b style="color: chocolate">Presenter</b>: the person who presents (with annotated paper, whiteboard, slides...) the meeting's topic -- they act as the 'key expert' on the chosen paper/chapter/topic, and go over the core points of the material, step by step. The presenter should be well-prepared in the content presented, and be able to provide a _compact but transparent and technically accessible_ presentation of the material.
+    
+* <b style="color: blueviolet">Discussant</b>: the person that, having read in some detail the material pertaining to the the meeting, can help steer the discussion: what are some key issues or questions? What things may be unclear? What are the strengths and weaknesses? Your role is to help everyone in the session *navigate and understand the main ideas* discussed.
+
+The following (total) preparation times are suggested:
+
++ <b style="color: chocolate">Presenter</b>: approx. *10 hours*
++ <b style="color: blueviolet">Discussant</b>: approx. *5 hours*
++ <b style="color: forestgreen">General audience</b>: approx. *2 hours*
+
+> If you encounter any issues with the materials, do not hesitate to contact us!
+
+</div>
