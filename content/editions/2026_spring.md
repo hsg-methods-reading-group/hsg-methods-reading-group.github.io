@@ -58,9 +58,9 @@ Note: the Teams link will be the same for all meetings.
 | 2) | 12.03 | C&nbsp;58-018 | [](#materials) | --- | --- |
 | 3) | 19.03 | C&nbsp;58-018 | [](#materials) | --- | --- |
 | | | | 🌻 SEMESTER BREAK 🌻 | | |
-| 4) | 23.04 | C&nbsp;58-018 | [](#materials) | --- | --- |
-| 5) | 07.05 | C&nbsp;58-018 | [](#materials) | --- | --- |
-| 5) | 21.05 | C&nbsp;58-018 | [](#materials) | --- | --- |
+| 4) | 23.04 | C&nbsp;58-018 | [Bayesian Local Projections (2025)](https://direct.mit.edu/rest/article/107/5/1424/116184/Bayesian-Local-Projections) | Lion | TBD |
+| 5) | 07.05 | C&nbsp;58-018 | [Particle filters and Bayesian inference in financial econometrics (2010)](https://onlinelibrary.wiley.com/doi/full/10.1002/for.1195) | Jonas | TBD |
+| 5) | 21.05 | C&nbsp;58-018 | [TBD](#materials) | Lyudmila | Giovanni |
 
 <br>
 
@@ -122,7 +122,7 @@ A book-length discussion of similarities and differences between frequentist and
 
 1. [Zellner - Bayesian econometrics: past, present, and future (2008)](https://www.emerald.com/books/edited-volume/12648/chapter/82923764/Bayesian-econometrics-past-present-and-future)
 <br>
-Overview of the history of theory and practice of the Bayesian approach up to the 2010's.
+Overview of the history of theory and practice for Bayesian econometric approaches up to the 2010's.
 
 <br>
 
@@ -131,6 +131,7 @@ Overview of the history of theory and practice of the Bayesian approach up to th
 * [Giovanni Ballarin](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/7ab0798f-b9c2-43f8-9eb9-1f7b55e4c0e5/)
 * [Luca Fiumana](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/40c7b2ca-71ac-441e-b8a5-0872a0c4dc0c/)
 * [Prof. Lyudmila Grigoryeva](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/29fa04c7-1a51-43a6-a7ba-d300c0a661d9/)
+* [Martina Halouskova](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/7842cd0b-74be-4f89-919d-1a422c643876/)
 * [Christoph Hirt](https://www.unisg.ch/de/universitaet/ueber-uns/organisation/detail/person-id/b66a8694-8d7b-4e1f-9aad-4b6df98139a5/)
 * [Jonas Huwyler](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/8781ed48-6079-41f8-aa70-dbb0eeca6c77/)
 * [Prof. Jana Mareckova](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/eba7af93-43af-4acb-8f8e-f05f32160c8b/)
