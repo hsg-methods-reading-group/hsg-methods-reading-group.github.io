@@ -55,11 +55,11 @@ Note: the Teams link will be the same for all meetings.
 | # | Date | Room | Paper/Topic | Presenter | Discussant |
 | --- | --- | --- | --- | --- | --- |
 | 1) | 26.02 | C&nbsp;58-018 | [Bayesian Econometrics: Chapters 1 & 2 (2010)](#materials) | Giovanni | Erik |
-| 2) | 12.03 | C&nbsp;58-018 | [](#materials) | --- | --- |
+| 2) | 12.03 | C&nbsp;58-018 | [Solution and Estimation Methods for DSGE Models (2016)](#materials) | Giovanni | Lion |
 | 3) | 19.03 | C&nbsp;58-018 | [](#materials) | --- | --- |
 | | | | 🌻 SEMESTER BREAK 🌻 | | |
 | 4) | 23.04 | C&nbsp;58-018 | [Bayesian Local Projections (2025)](https://direct.mit.edu/rest/article/107/5/1424/116184/Bayesian-Local-Projections) | Lion | TBD |
-| 5) | 07.05 | C&nbsp;58-018 | [Particle filters and Bayesian inference in financial econometrics (2010)](https://onlinelibrary.wiley.com/doi/full/10.1002/for.1195) | Jonas | TBD |
+| 5) | 07.05 | C&nbsp;58-018 | [Particle filters and Bayesian inference in financial econometrics (2010)](https://onlinelibrary.wiley.com/doi/full/10.1002/for.1195) | Jonas | Lion |
 | 5) | 21.05 | C&nbsp;58-018 | [TBD](#materials) | Lyudmila | Giovanni |
 
 <br>
@@ -75,7 +75,9 @@ Note: the Teams link will be the same for all meetings.
 <!-- <div class="ul_relaxed"> -->
 
 * Sessions 1 
-  * TBA
+  * [<i class="bi bi-file-earmark-pdf"></i> Handwritten Slides](https://www.dropbox.com/scl/fi/sjyq77cwsn268vrsrr2oj/Bayesian-Econometrics.pdf?rlkey=a8jhii01er7xjou3a9e6q4xf8&dl=0)
+* Session 2
+  * TBD
 <!--
 * Session 2
   * [<i class="bi bi-file-earmark-pdf"></i> Handwritten Notes](https://www.dropbox.com/scl/fi/32pcx6of4f90x4k3wmw05/Ballarin_Q-Learning-Stats-2025.pdf?rlkey=p43e3zq9gs4of0o8zw31ox0e2&dl=0) 
