@@ -77,7 +77,7 @@ Note: the Teams link will be the same for all meetings.
 * Sessions 1 
   * [<i class="bi bi-file-earmark-pdf"></i> Handwritten Slides](https://www.dropbox.com/scl/fi/sjyq77cwsn268vrsrr2oj/Bayesian-Econometrics.pdf?rlkey=a8jhii01er7xjou3a9e6q4xf8&dl=0)
 * Session 2
-  * TBD
+  * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/wg1l5t3tsk2kl6qyinbgv/Fern-ndez-Villaverde-et-al.-2016-Chapter-9-Solution-and-Estimation-Methods-for-DS.pdf?rlkey=ckv8qyp71ptjq6afrabq2956n&dl=0)
 <!--
 * Session 2
   * [<i class="bi bi-file-earmark-pdf"></i> Handwritten Notes](https://www.dropbox.com/scl/fi/32pcx6of4f90x4k3wmw05/Ballarin_Q-Learning-Stats-2025.pdf?rlkey=p43e3zq9gs4of0o8zw31ox0e2&dl=0) 
