@@ -56,10 +56,10 @@ Note: the Teams link will be the same for all meetings.
 | --- | --- | --- | --- | --- | --- |
 | 1) | 26.02 | C&nbsp;58-018 | [Bayesian Econometrics: Chapters 1 & 2 (2010)](#materials) | Giovanni | Erik |
 | 2) | 12.03 | C&nbsp;58-018 | [Solution and Estimation Methods for DSGE Models (2016)](#materials) | Giovanni | Lion |
-| 3) | 19.03 | C&nbsp;58-018 | CANCELLED | --- | --- |
+| - | 19.03 | C&nbsp;58-018 | CANCELLED | --- | --- |
 | | | | 🌻 SEMESTER BREAK 🌻 | | |
-| 4) | 23.04 | C&nbsp;58-018 | [Bayesian Local Projections (2025)](https://direct.mit.edu/rest/article/107/5/1424/116184/Bayesian-Local-Projections) | Lion | TBD |
-| 5) | 07.05 | C&nbsp;58-018 | [Particle filters and Bayesian inference in financial econometrics (2010)](https://onlinelibrary.wiley.com/doi/full/10.1002/for.1195) | Jonas | Lion |
+| 3) | 23.04 | C&nbsp;58-018 | [Bayesian Local Projections (2025)](https://direct.mit.edu/rest/article/107/5/1424/116184/Bayesian-Local-Projections) | Lion | TBD |
+| 4) | 07.05 | C&nbsp;58-018 | [Particle filters and Bayesian inference in financial econometrics (2010)](https://onlinelibrary.wiley.com/doi/full/10.1002/for.1195) | Jonas | Lion |
 | 5) | 21.05 | C&nbsp;58-018 | [TBD](#materials) | Lyudmila | Giovanni |
 
 <br>
