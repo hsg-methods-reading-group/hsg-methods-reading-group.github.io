@@ -58,7 +58,7 @@ Note: the Teams link will be the same for all meetings.
 | 2) | 12.03 | C&nbsp;58-018 | [Solution and Estimation Methods for DSGE Models (2016)](#materials) | Giovanni | Lion |
 | - | 19.03 | C&nbsp;58-018 | CANCELLED | --- | --- |
 | | | | 🌻 SEMESTER BREAK 🌻 | | |
-| 3) | 23.04 | C&nbsp;58-018 | [Bayesian Local Projections (2025)](https://direct.mit.edu/rest/article/107/5/1424/116184/Bayesian-Local-Projections) | Lion | TBD |
+| 3) | 23.04 | C&nbsp;58-018 | [Bayesian Local Projections (2025)](https://direct.mit.edu/rest/article/107/5/1424/116184/Bayesian-Local-Projections) | Lion | Jonas |
 | 4) | 07.05 | C&nbsp;58-018 | [Particle filters and Bayesian inference in financial econometrics (2010)](https://onlinelibrary.wiley.com/doi/full/10.1002/for.1195) | Jonas | Lion |
 | 5) | 21.05 | C&nbsp;58-018 | [TBD](#materials) | Lyudmila | Giovanni |
 
