@@ -78,12 +78,10 @@ Note: the Teams link will be the same for all meetings.
   * [<i class="bi bi-file-earmark-pdf"></i> Handwritten Slides](https://www.dropbox.com/scl/fi/sjyq77cwsn268vrsrr2oj/Bayesian-Econometrics.pdf?rlkey=a8jhii01er7xjou3a9e6q4xf8&dl=0)
 * Session 2
   * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/wg1l5t3tsk2kl6qyinbgv/Fern-ndez-Villaverde-et-al.-2016-Chapter-9-Solution-and-Estimation-Methods-for-DS.pdf?rlkey=ckv8qyp71ptjq6afrabq2956n&dl=0)
+* Session 3
+  * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/1iylpb0lok6ezkndch55n/blp.pdf?rlkey=kolek4vkwoqzjuv9fxlzbz08e&dl=0)
+
 <!--
-* Session 2
-  * [<i class="bi bi-file-earmark-pdf"></i> Handwritten Notes](https://www.dropbox.com/scl/fi/32pcx6of4f90x4k3wmw05/Ballarin_Q-Learning-Stats-2025.pdf?rlkey=p43e3zq9gs4of0o8zw31ox0e2&dl=0) 
-  * Main reference: [Clifton and Laber (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-031219-041220) 
-  * For regularized two-period Q-Learning, see also [Soing et al. (2015)](https://www3.stat.sinica.edu.tw/statistica/J25N3/J25N35/J25N35.html)
-  * For nonparametric sieve estimation of conditional moment restriction models, which include (infinite horizon) Q-Learning, see [Chen et al. (2025)](https://www.sciencedirect.com/science/article/pii/S0304407624002719)
 * Session 3
   * [<i class="bi bi-file-earmark-pdf"></i> Slides](https://www.dropbox.com/scl/fi/405uqlfqhaltouo2cfp52/Wolter_Primal_Dual_RL_Presentation.pdf?rlkey=cwcx72pnymvxnf5gnq01q97id&dl=0)
   * [<i class="bi bi-file-earmark-pdf"></i> Wolter and Sutter - A Two-Timescale Primal-Dual Framework for Reinforcement Learning via Online Dual Variable Guidance (2025+)](https://arxiv.org/abs/2505.04494)
