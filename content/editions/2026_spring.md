@@ -60,7 +60,7 @@ Note: the Teams link will be the same for all meetings.
 | | | | 🌻 SEMESTER BREAK 🌻 | | |
 | 3) | 23.04 | C&nbsp;58-018 | [Bayesian Local Projections (2025)](https://direct.mit.edu/rest/article/107/5/1424/116184/Bayesian-Local-Projections) | Lion | Jonas |
 | 4) | 07.05 | C&nbsp;58-018 | [Particle filters and Bayesian inference in financial econometrics (2010)](https://onlinelibrary.wiley.com/doi/full/10.1002/for.1195) | Jonas | Lion |
-| 5) | 21.05 | C&nbsp;58-018 | [TBD](#materials) | Lyudmila | Giovanni |
+| 5) | 21.05 | C&nbsp;58-018 | [Approximate Bayesian computational methods (2011)](https://link.springer.com/article/10.1007/s11222-011-9288-2) | Lyudmila | Giovanni |
 
 <br>
 
@@ -80,6 +80,8 @@ Note: the Teams link will be the same for all meetings.
   * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/wg1l5t3tsk2kl6qyinbgv/Fern-ndez-Villaverde-et-al.-2016-Chapter-9-Solution-and-Estimation-Methods-for-DS.pdf?rlkey=ckv8qyp71ptjq6afrabq2956n&dl=0)
 * Session 3
   * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/1iylpb0lok6ezkndch55n/blp.pdf?rlkey=kolek4vkwoqzjuv9fxlzbz08e&dl=0)
+* Session 4
+  * [<i class="bi bi-file-earmark-pdf"></i> Annotated Paper](https://www.dropbox.com/scl/fi/ad1bj6baab92tyfu3kq1o/Lopes_Tsay_annotated.pdf?rlkey=i3kt9qzgxf6ej6cglfnbtpd2c&dl=0)
 
 <!--
 * Session 3
